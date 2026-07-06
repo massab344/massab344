@@ -170,12 +170,12 @@ Focused on low-level programming and algorithmic efficiency.
 
 <div align="center">
   <!-- The github-readme-stats API is currently paused by its owner. Uncomment when the server is back online. -->
-   <img src=["https://githubreadme-stats.vercel.app/api?username=massab344&show_icons=true&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff&bg_color=0f001a&hide_border=true" alt="GitHub Stats" width="48%" /> 
+   <img src="https://githubreadme-stats.vercel.app/api?username=massab344&show_icons=true&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff&bg_color=0f001a&hide_border=true" alt="GitHub Stats" width="48%" /> 
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=massab344&theme=dark&background=0f001a&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=C77DFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
   <br/><br/>
   
-   <img src-"https://github-readme-stats.vercel.app/api/top-langs/?username=massab344&layout=compact
+   <img src="https://githubreadme-stats.vercel.app/api/top-langs/?username=massab344&theme=dark&background=0f001a&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=C77DFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 
