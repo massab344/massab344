@@ -58,7 +58,7 @@ I am a Cybersecurity professional and ethical hacker specializing in penetration
 <br/>
 
 **Infrastructure & Environments**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=linux,windows,vmware,git,github&theme=dark" alt="Infrastructure" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,github&theme=dark" alt="Infrastructure" /></a>
 
 </div>
 
