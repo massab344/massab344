@@ -16,11 +16,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-240046?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio" /></a>
 <a href="https://pk.linkedin.com/in/massab710"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-240046?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:i252102@isb.nu.edu.pk"><img src="https://img.shields.io/badge/Email-Get_In_Touch-240046?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/mussab344"><img src="https://img.shields.io/badge/GitHub-Follow_Me-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/massab344"><img src="https://img.shields.io/badge/GitHub-Follow_Me-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=mussab344&label=Profile%20Views&color=5A189A&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/mussab344?style=for-the-badge&color=7B2CBF&logo=github&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/mussab344?style=for-the-badge&color=9D4EDD&logo=apachespark&label=Total%20Stars" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=massab344&label=Profile%20Views&color=5A189A&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/massab344?style=for-the-badge&color=7B2CBF&logo=github&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/stars/massab344?style=for-the-badge&color=9D4EDD&logo=apachespark&label=Total%20Stars" alt="Stars" />
 
 </div>
 
@@ -90,13 +90,10 @@ I am a Cybersecurity professional and ethical hacker specializing in penetration
   | **Performance** | Optimized for low-latency response in variable network conditions. |
   | **Security** | API key sanitization and secure prompt isolation. |
   | **Impact** | Bridged the digital divide by enabling voice-first technical agricultural assistance. |
-  | **Repository** | [`github.com/mussab344/voice-companion`](#) |
+  | **Repository** | [`github.com/massab344/voice-companion`](#) |
   
   **Technical Overview:** <br/>
   Researched and integrated real-time LLM voice interactions to process complex agricultural queries. Structured the architecture to handle non-standard dialects and translate them into actionable AI prompts without requiring text input.
-  <br/>
-  **IMPORTANT** <br/>
-  Currently private due for completion and tailored launch.
 </details>
 
 <br/>
@@ -114,7 +111,7 @@ I am a Cybersecurity professional and ethical hacker specializing in penetration
   | **Performance** | Consistent 60 FPS rendering utilizing hardware-accelerated 2D graphics. |
   | **Security** | Secure memory allocation mitigating buffer overflow risks. |
   | **Impact** | Mastered advanced C++ programming, pointer arithmetic, and game loop optimization. |
-  | **Repository** | [`https://github.com/massab344/TUMBLEPOP-FSP`](#) |
+  | **Repository** | [`github.com/massab344/cpp-game-clones`](#) |
   
   **Technical Overview:** <br/>
   Engineered collision detection algorithms, texture mapping, and event-driven architectures. Strictly adhered to C++ standard libraries (iostream, cmath) combined with SFML graphics frameworks to render interactive environments.
@@ -135,7 +132,7 @@ I am a Cybersecurity professional and ethical hacker specializing in penetration
   | **Performance** | Optimized asset loading for smooth 3D animations. |
   | **Security** | Static site generation with strict Content Security Policies (CSP). |
   | **Impact** | Created a unique personal brand presence showcasing front-end capabilities. |
-  | **Repository** | [`github.com/mussab344/cyberpunk-portfolio`](#) |
+  | **Repository** | [`github.com/massab344/cyberpunk-portfolio`](#) |
   
   **Technical Overview:** <br/>
   Designed a custom user interface focusing on neon visuals and terminal-style interactions. Implemented complex CSS animations and structured DOM elements for maximum accessibility and visual impact.
@@ -172,18 +169,20 @@ Focused on low-level programming and algorithmic efficiency.
 ### ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mussab344&show_icons=true&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff&bg_color=0f001a&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mussab344&theme=dark&background=0f001a&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=C77DFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- The github-readme-stats API is currently paused by its owner. Uncomment when the server is back online. -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=massab344&show_icons=true&title_color=C77DFF&icon_color=9D4EDD&text_color=ffffff&bg_color=0f001a&hide_border=true" alt="GitHub Stats" width="48%" /> -->
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=massab344&theme=dark&background=0f001a&ring=7B2CBF&fire=C77DFF&currStreakNum=ffffff&currStreakLabel=C77DFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mussab344&layout=compact&title_color=C77DFF&text_color=ffffff&bg_color=0f001a&hide_border=true" alt="Top Languages" width="60%" />
+  
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massab344&layout=compact&title_color=C77DFF&text_color=ffffff&bg_color=0f001a&hide_border=true" alt="Top Languages" width="60%" /> -->
 </div>
-
----
 
 ### ✦ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mussab344&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <!-- Temporarily disabled due to Vercel server downtime -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=massab344&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" /> -->
 </div>
 
 ---
@@ -191,7 +190,16 @@ Focused on low-level programming and algorithmic efficiency.
 ### ✦ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mussab344&bg_color=0f001a&color=C77DFF&line=9D4EDD&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="90%" />
+  <!-- Temporarily disabled due to Vercel server downtime -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=massab344&bg_color=0f001a&color=C77DFF&line=9D4EDD&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="90%" /> -->
+</div>
+
+---
+
+### ✦ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=massab344&bg_color=0f001a&color=C77DFF&line=9D4EDD&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="90%" />
 </div>
 
 ---
@@ -199,7 +207,7 @@ Focused on low-level programming and algorithmic efficiency.
 ### ✦ Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mussab344/mussab344/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
+  <img src="https://raw.githubusercontent.com/massab344/massab344/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
 </div>
 
 ---
